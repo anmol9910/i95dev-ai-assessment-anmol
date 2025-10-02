@@ -1,0 +1,29 @@
+[
+  {
+    "id": "prod001",
+    "name": "Ultra-Comfort Running Shoes",
+    "category": "Footwear",
+    "price": 89.99,
+    "brand": "SportsFlex",
+    "description": "Lightweight running shoes with responsive cushioning.",
+    "tags": ["running", "athletic", "comfortable"]
+  },
+  {
+    "id": "prod002",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 120.50,
+    "brand": "Urban Threads",
+    "description": "A timeless denim jacket for a stylish look.",
+    "tags": ["denim", "jacket", "casual", "fashion"]
+  },
+  {
+    "id": "prod003",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "brand": "AudioPhile",
+    "description": "Immersive sound experience with industry-leading noise cancellation.",
+    "tags": ["audio", "headphones", "wireless", "tech"]
+  }
+]
