@@ -139,17 +139,6 @@ The dataset includes products from categories such as:
 
 ---
 
-## Stretch Goals (Optional)
-
-If you complete the core requirements and want to demonstrate additional skills, consider implementing one or more of these stretch goals:
-
-* Add user authentication and profile persistence
-* Implement caching for LLM responses to improve performance
-* Add filtering and sorting options to the product catalog
-* Create A/B testing for different prompt strategies
-* Add unit and/or integration tests
-
----
 
 ## Evaluation Criteria
 
@@ -193,10 +182,6 @@ Ensure your repository includes:
 * A comprehensive README with setup instructions
 * Documentation of your approach, especially for prompt engineering
 
-### Deployment (Optional)
-
-If possible, deploy your application (e.g., Vercel, Netlify, Heroku)
-Include the deployed URL in your README
 
 ### Submission Timeline
 
